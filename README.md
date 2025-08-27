@@ -30,5 +30,5 @@
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/minecraft-nametag-cam.git
+git clone https://github.com/hiu154/nametag.git
 cd minecraft-nametag-cam
