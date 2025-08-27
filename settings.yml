@@ -1,0 +1,8 @@
+name_tag: "JesNull"
+font_scale: 0.7
+font_thickness: 1
+box_offset_y: 70
+box_padding: 6
+font_color: [255, 255, 255]
+box_color: [60, 60, 60]
+box_alpha: 0.6
