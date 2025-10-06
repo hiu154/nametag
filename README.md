@@ -31,4 +31,4 @@
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/hiu154/nametag.git
-cd minecraft-nametag-cam
+
